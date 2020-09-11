@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">ProjectOne</string>
+
+    <string-array name="Rich_Man">
+
+        <item>Jeff Bezos</item>
+        <item>Bill Gates</item>
+        <item>Bernard Arnault</item>
+        <item>Warren Buffett</item>
+        <item>Larry Ellison</item>
+        <item>Amancio Ortega</item>
+        <item>Mark Zuckerberg</item>
+    </string-array>
+
+
+    <string-array name="Top">
+
+        <item>Top 1 Rich Man</item>
+        <item>Top 2 Rich Man</item>
+        <item>Top 3 Rich Man</item>
+        <item>Top 4 Rich Man</item>
+        <item>Top 5 Rich Man</item>
+        <item>Top 6 Rich Man</item>
+        <item>Top 7 Rich Man</item>
+    </string-array>
+
+
+    <string name="Jeff_Bezos">
+
+        "After Bezos graduated from Princeton University in 1986, he was offered jobs at Intel, Bell Labs, and Andersen Consulting, among others.
+        He first worked at Fitel, a fintech telecommunications start-up, where he was tasked with building a network for international trade.
+        Bezos was promoted to head of development and director of customer service thereafter.
+        He transitioned into the banking industry when he became a product manager at Bankers Trust. In late 1993, Bezos decided to establish an online bookstore.
+        He left his job at D. E. Shaw and founded Amazon in his garage on July 5, 1994, after writing its business plan on a cross-country drive from New York City to Seattle.
+        After Bezos graduated from Princeton University in 1986, he was offered jobs at Intel, Bell Labs, and Andersen Consulting, among others.
+        He first worked at Fitel, a fintech telecommunications start-up, where he was tasked with building a network for international trade.
+        Bezos was promoted to head of development and director of customer service thereafter.
+        He transitioned into the banking industry when he became a product manager at Bankers Trust. In late 1993, Bezos decided to establish an online bookstore.
+        He left his job at D. E. Shaw and founded Amazon in his garage on July 5, 1994, after writing its business plan on a cross-country drive from New York City to Seattle."
+    </string>
+
+    <string name="Bill_Gates">
+
+        "William Henry Gates III (born October 28, 1955) is an American business magnate, software developer, investor, and philanthropist.
+        He is best known as the co-founder of Microsoft Corporation.
+        During his career at Microsoft, Gates held the positions of chairman, chief executive officer (CEO),
+        president and chief software architect, while also being the largest individual shareholder until May 2014.
+        He is one of the best-known entrepreneurs and pioneers of the microcomputer revolution of the 1970s and 1980s.
+        William Henry Gates III (born October 28, 1955) is an American business magnate, software developer, investor, and philanthropist.
+        He is best known as the co-founder of Microsoft Corporation.
+        During his career at Microsoft, Gates held the positions of chairman, chief executive officer (CEO),
+        president and chief software architect, while also being the largest individual shareholder until May 2014.
+        He is one of the best-known entrepreneurs and pioneers of the microcomputer revolution of the 1970s and 1980s."
+
+    </string>
+
+    <string name="Bernard_Arnault">
+
+        "Bernard Jean Étienne Arnault;
+        born 5 March 1949) is a French billionaire businessman and art collector.
+        He is the chairman and chief executive of LVMH Moët Hennessy – Louis Vuitton SE, the worlds largest luxury-goods company.
+        In April 2018, he became the richest person in fashion, topping Zaras Amancio Ortega.
+        Arnault briefly surpassed Jeff Bezos to become the richest person in the world in December of 2019.
+        He again became the worlds richest person for a short time in January 2020.
+        As of August 2020, according to Bloomberg, his net worth was estimated at $80.2 billion, the fourth wealthiest in the world.
+        Bernard Jean Étienne Arnault;
+        born 5 March 1949) is a French billionaire businessman and art collector.
+        He is the chairman and chief executive of LVMH Moët Hennessy – Louis Vuitton SE, the worlds largest luxury-goods company.
+        In April 2018, he became the richest person in fashion, topping Zaras Amancio Ortega.
+        Arnault briefly surpassed Jeff Bezos to become the richest person in the world in December of 2019.
+        He again became the worlds richest person for a short time in January 2020.
+        As of August 2020, according to Bloomberg, his net worth was estimated at $80.2 billion, the fourth wealthiest in the world."
+
+     </string>
+
+    <string name="Warren_Buffett">
+
+        "Warren Edward Buffett (born August 30, 1930) is an American investor, business tycoon, philanthropist, and the chairman and CEO of Berkshire Hathaway.
+        He is considered one of the most successful investors in the world and has a net worth of US$78.9 billion as of August 2020,
+        making him the world's seventh-wealthiest person.
+        Warren Edward Buffett (born August 30, 1930) is an American investor, business tycoon, philanthropist, and the chairman and CEO of Berkshire Hathaway.
+        He is considered one of the most successful investors in the world and has a net worth of US$78.9 billion as of August 2020,
+        making him the world's seventh-wealthiest person."
+    </string>
+
+    <string name="Larry_Ellison">
+
+       "Lawrence Joseph Ellison (born August 17, 1944) is an American business magnate, investor,
+        and philanthropist who is a co-founder and the executive chairman and chief technology officer (CTO) of Oracle Corporation.
+        As of October 2019, he was listed by Forbes magazine as the fourth-wealthiest person in the United States and as the sixth-wealthiest in the world,
+        with a fortune of $69.1 billion, increased from $54.5 billion in 2018.
+        Lawrence Joseph Ellison (born August 17, 1944) is an American business magnate, investor,
+        and philanthropist who is a co-founder and the executive chairman and chief technology officer (CTO) of Oracle Corporation.
+        As of October 2019, he was listed by Forbes magazine as the fourth-wealthiest person in the United States and as the sixth-wealthiest in the world,
+        with a fortune of $69.1 billion, increased from $54.5 billion in 2018."
+    </string>
+
+    <string name="Amancio_Ortega">
+
+        "(born 28 March 1936) is a Spanish billionaire businessman. He is the founder and former chairman of Inditex fashion group, best known for its chain of Zara clothing and accessories shops.
+        As of December 2019, Ortega had a net worth of $68.3 billion, making him the second-wealthiest person in Europe after Bernard Arnault, and the sixth-wealthiest in the world.
+        For a brief period of time in 2015, he was the richest man in the world, bypassing Bill Gates when his net worth peaked to $80 billion as Zara's parent company, Inditex's, stock peaked.
+        He is the head of the Ortega family and the second wealthiest retailer in the world.
+        (born 28 March 1936) is a Spanish billionaire businessman. He is the founder and former chairman of Inditex fashion group, best known for its chain of Zara clothing and accessories shops.
+        As of December 2019, Ortega had a net worth of $68.3 billion, making him the second-wealthiest person in Europe after Bernard Arnault, and the sixth-wealthiest in the world.
+        For a brief period of time in 2015, he was the richest man in the world, bypassing Bill Gates when his net worth peaked to $80 billion as Zara's parent company, Inditex's, stock peaked.
+        He is the head of the Ortega family and the second wealthiest retailer in the world."
+
+    </string>
+
+    <string name="Mark_Zuckerberg">
+
+        "Mark Elliot Zuckerberg (born May 14, 1984) is an American media magnate, internet entrepreneur, and philanthropist.
+        He is known for co-founding Facebook, Inc. and serves as its chairman, chief executive officer, and controlling shareholder.
+        He also is a co-founder of the solar sail spacecraft development project Breakthrough Starshot and serves as one of its board members.
+        Mark Elliot Zuckerberg (born May 14, 1984) is an American media magnate, internet entrepreneur, and philanthropist.
+        He is known for co-founding Facebook, Inc. and serves as its chairman, chief executive officer, and controlling shareholder.
+        He also is a co-founder of the solar sail spacecraft development project Breakthrough Starshot and serves as one of its board members."
+    </string>
+
+
+</resources>

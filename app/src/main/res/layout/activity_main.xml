@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:padding="30dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Spinner
+        android:id="@+id/spinnerId"
+        android:background="#CAA945"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/textViewId"
+        android:layout_marginTop="400dp"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:text="Name"
+        android:textSize="30dp"
+        android:textColor="#FFEB3B"
+        android:layout_height="wrap_content"/>
+
+     <Button
+         android:id="@+id/submitBtnId"
+         android:layout_width="200dp"
+         android:textColor="#01FDFD"
+         android:text="Get  Info "
+         android:textSize="35dp"
+         android:drawableRight="@drawable/ic_info"
+         android:textAllCaps="false"
+         android:layout_gravity="center"
+         android:layout_marginTop="50dp"
+         android:backgroundTint="#0E1125"
+         android:layout_height="wrap_content"/>
+
+</LinearLayout>
